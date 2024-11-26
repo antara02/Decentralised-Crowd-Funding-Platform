@@ -15,7 +15,7 @@ A decentralized platform for crowdfunding projects using blockchain technology.
 
 ### 1. Clone the Repository
 ```bash
-$ git clone 
+$ git clone https://github.com/antara02/Decentralised-Crowd-Funding-Platform.git
 2. Install Dependencies
 For Client/Frontend:
 bash
